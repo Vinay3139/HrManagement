@@ -1,0 +1,43 @@
+.input {
+  width: 35%;
+  height: 375px;
+  background-color: #219b8f;
+  margin-left: 270px;
+  padding: 10px;
+  color: white;
+}
+.holder{
+  border: 1px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin: 11px;
+  background-color: #219b8f;
+  color: white;
+  outline: none;
+}
+::placeholder{
+  color: white;
+}
+
+
+.set{
+  margin-left: 10px;
+  border: 1px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 86%;
+  background-color: #219b8f;
+  color: white;
+  outline: none;
+
+}
+.same{
+  padding-left: 10px;
+}
+.box{
+  
+  display: flex;
+  margin-top: 11px;
+}

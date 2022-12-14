@@ -1,0 +1,76 @@
+.Manager {
+  width: 100%;
+  height: 369px;
+  margin-left: 156px;
+  object-fit: contain;
+}
+.Hr {
+  width: 20%;
+  height: 342px;
+  padding: 55px;
+}
+.Container {
+  width: 100%;
+  height: 369px;
+  display: flex;
+  background-color: #87c6c0;
+}
+/* .btn{
+    background-color: #289B8F;
+    border: none;
+} */
+/* navbar.js */
+.Nav-bar{
+  width: 100%;
+  
+  height: 70px;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.Nav-bar li{
+  margin: 15px;
+  padding: 5px;
+  
+
+}
+li:last-child{
+  background-color: #219B8F;
+
+  border-radius: 20px;
+  border: 1px transparent;
+}
+li:hover{
+  border: 1px transparent;
+  /* background-color: rgb(0, 128, 85); */
+  cursor: pointer;
+
+
+}
+#image{
+  margin-right: 690px;
+  
+   
+  width: 42px;
+  height: 40px;
+}
+
+/* picture.js */
+.Picture{
+  height: 300px;
+  width: 588px;
+  
+ 
+  margin-left: 32px;
+  /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;; */
+  border-radius: 20px;
+  
+}
+.pic{
+  height: 300px;
+  width: 588px;
+  border-radius: 20px;
+  background-color: #87C6C0;
+  object-fit: contain;
+}
